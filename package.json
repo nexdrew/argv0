@@ -1,0 +1,22 @@
+{
+  "name": "argv0",
+  "version": "0.0.1",
+  "description": "Compare process.argv0 to other values",
+  "main": "index.js",
+  "bin": {
+    "argv0": "cli.js"
+  },
+  "scripts": {
+    "test": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexdrew/argv0.git"
+  },
+  "author": "nexdrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexdrew/argv0/issues"
+  },
+  "homepage": "https://github.com/nexdrew/argv0#readme"
+}
